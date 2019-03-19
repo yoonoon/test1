@@ -1,4 +1,4 @@
-package listtest;
+package com.soft1841.list;
 
 public class NBAStarTest {
     private String name;

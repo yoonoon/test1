@@ -1,4 +1,4 @@
-package acticle;
+package com.soft1841.list;
 
 import java.util.Date;
 

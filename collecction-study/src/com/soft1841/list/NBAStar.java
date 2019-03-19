@@ -1,11 +1,7 @@
-package listtest;
+package com.soft1841.list;
 
 
 
-import sun.security.util.Length;
-
-import javax.sound.sampled.Line;
-import java.awt.print.Book;
 import java.util.*;
 
 public class NBAStar {
